@@ -1,0 +1,34 @@
+[
+  {
+    "name": "auth_token",
+    "value": "yourtoken",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "ct0",
+    "value": "yourct0",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "twid",
+    "value": "yourtwid",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "kdt",
+    "value": "yourkdt",
+    "domain": ".x.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true
+  }
+]
