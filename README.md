@@ -1,3 +1,7 @@
+<p align="center">
+  <img height="300" height="auto" src="https://raw.githubusercontent.com/sipalingnode/yapbot/main/yapbot.png">
+</p>
+
 # yapbot
 ## Hal yang perlu di siapkan
 1. Mengambil apikey dari OpenAI: https://platform.openai.com/settings/organization/api-keys (buy $5)
