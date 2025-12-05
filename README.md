@@ -1,7 +1,7 @@
 # yapbot
 ## Hal yang perlu di siapkan
 1. Mengambil apikey dari OpenAI: https://platform.openai.com/settings/organization/api-keys (buy $5)
-2. Mengambil Cookies Twitter (Gunakan Inspect element) lalu edit pada file [cookies.json](https://platform.openai.com/settings/organization/api-keys)
+2. Mengambil Cookies Twitter (Gunakan Inspect element) lalu edit pada file [cookies.json](https://github.com/sipalingnode/yapbot/blob/main/README.md#edit-file-cookiesjson)
 
 ```
 sudo apt update && sudo apt upgrade -y
